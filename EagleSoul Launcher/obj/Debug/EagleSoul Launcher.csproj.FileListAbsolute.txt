@@ -1,0 +1,15 @@
+C:\Users\Jonas\source\repos\EagleSoul Launcher\EagleSoul Launcher\bin\Debug\EagleSoul Launcher.exe.config
+C:\Users\Jonas\source\repos\EagleSoul Launcher\EagleSoul Launcher\bin\Debug\EagleSoul Launcher.exe
+C:\Users\Jonas\source\repos\EagleSoul Launcher\EagleSoul Launcher\bin\Debug\EagleSoul Launcher.pdb
+C:\Users\Jonas\source\repos\EagleSoul Launcher\EagleSoul Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonas\source\repos\EagleSoul Launcher\EagleSoul Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jonas\source\repos\EagleSoul Launcher\EagleSoul Launcher\obj\Debug\EagleSoul_Launcher.Main.resources
+C:\Users\Jonas\source\repos\EagleSoul Launcher\EagleSoul Launcher\obj\Debug\EagleSoul_Launcher.Properties.Resources.resources
+C:\Users\Jonas\source\repos\EagleSoul Launcher\EagleSoul Launcher\obj\Debug\EagleSoul Launcher.csproj.GenerateResource.cache
+C:\Users\Jonas\source\repos\EagleSoul Launcher\EagleSoul Launcher\obj\Debug\EagleSoul Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\EagleSoul Launcher\EagleSoul Launcher\obj\Debug\EagleSoul Launcher.csproj.CopyComplete
+C:\Users\Jonas\source\repos\EagleSoul Launcher\EagleSoul Launcher\obj\Debug\EagleSoul Launcher.exe
+C:\Users\Jonas\source\repos\EagleSoul Launcher\EagleSoul Launcher\obj\Debug\EagleSoul Launcher.pdb
+C:\Users\Jonas\source\repos\EagleSoul Launcher\EagleSoul Launcher\bin\Debug\EagleSoulLauncher.dll
+C:\Users\Jonas\source\repos\EagleSoul Launcher\EagleSoul Launcher\bin\Debug\EagleSoulLauncher.pdb
+C:\Users\Jonas\source\repos\EagleSoul Launcher\EagleSoul Launcher\obj\Debug\EagleSoul Launcher.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Jonas\source\repos\EagleSoulLauncher\EagleSoulLauncher\bin\Debug\netstandard2.0\EagleSoulLauncher.deps.json
+C:\Users\Jonas\source\repos\EagleSoulLauncher\EagleSoulLauncher\bin\Debug\netstandard2.0\EagleSoulLauncher.dll
+C:\Users\Jonas\source\repos\EagleSoulLauncher\EagleSoulLauncher\bin\Debug\netstandard2.0\EagleSoulLauncher.pdb
+C:\Users\Jonas\source\repos\EagleSoulLauncher\EagleSoulLauncher\obj\Debug\netstandard2.0\EagleSoulLauncher.AssemblyInfoInputs.cache
+C:\Users\Jonas\source\repos\EagleSoulLauncher\EagleSoulLauncher\obj\Debug\netstandard2.0\EagleSoulLauncher.AssemblyInfo.cs
+C:\Users\Jonas\source\repos\EagleSoulLauncher\EagleSoulLauncher\obj\Debug\netstandard2.0\EagleSoulLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\EagleSoulLauncher\EagleSoulLauncher\obj\Debug\netstandard2.0\EagleSoulLauncher.dll
+C:\Users\Jonas\source\repos\EagleSoulLauncher\EagleSoulLauncher\obj\Debug\netstandard2.0\EagleSoulLauncher.pdb
+C:\Users\Jonas\source\repos\EagleSoulLauncher\EagleSoulLauncher\obj\Debug\netstandard2.0\EagleSoulLauncher.csprojAssemblyReference.cache

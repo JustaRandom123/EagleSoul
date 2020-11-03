@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fjz2jruFJPKVQo4tvqrt9mKLx7hPj7quMpdAkzbfhMhnBACfEjQTlJwXxVP2+61zN1CYIVzpgmMlcVS41J0OHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonas\\source\\repos\\EagleSoulLauncher\\EagleSoulLauncher\\EagleSoulLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+{
+    "DE": [
+        {
+            "label2": "Gib deinen username ein",
+            "label3": "Gib dein passwort ein",
+            "button1": "Einloggen",
+            "button2": "Registrieren"
+        }
+    ],
+    "VE": [
+        {
+            "label2": "Nombre de usuario",
+            "label3": "Contraseña",
+            "button1": "Iniciar Sesión",
+            "button2": "Registro"
+        }
+    ]
+}
